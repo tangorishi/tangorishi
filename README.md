@@ -1,5 +1,5 @@
-![MasterHead](https://imgs.search.brave.com/ad2SfY1RsQ495kFVfJ_sZc9jfo_Emb870CLc4FfwDDg/rs:fit:1200:331:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy8xNDAwLzZjMGY5/Yjk1NzQ2MTUxLjVl/OWVjZGU2OTU5OWUu/Z2lm.gif)
-<h1 align="center">Hi 👋, I'm Rishi Joshi</h1>
+![MasterHead](https://imgs.search.brave.com/_viTHliP23KRdFzX3WVkViV6izmyTFTpREvnUD7Y3GU/rs:fit:670:200:1/g:ce/aHR0cHM6Ly9pOTU4/LnBob3RvYnVja2V0/LmNvbS9hbGJ1bXMv/YWU2OS9za3dpZ2x5/bWFnYXppbmUvQmFu/bmVyX0pvZGllSGFz/bGFtX3pwc2Fxdm1o/cmZ3LmdpZg.gif)
+<h1 align="centre">Hi 👋, I'm Rishi Joshi</h1>
 <h3 align="center">A passionate open source contributor from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/FX3LSRe-WP3-NszptovDZnG_yj6GU12Q-HwdgQ0my0Q/rs:fit:480:268:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvWlZpazdw/QnR1OWROUy9naXBo/eS5naWY.gif>
 
