@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [beginnerC](https://github.com/tangorishi/BeginnerC)
 
-- 🌱 I’m currently learning **CSS,HTML and**
+- 🌱 I’m currently learning **CSS,HTML and Kotlin**
 
 - 👯 I’m looking to collaborate on [Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022)
 
