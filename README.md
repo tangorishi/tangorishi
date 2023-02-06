@@ -5,7 +5,7 @@ I am Rishi Joshi, Currently I am learning HTML, Kotlin, Python and CSS. I am a S
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-rishijoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishijoshi/)](https://www.linkedin.com/in/rishijoshi/)
+[![Linkedin Badge](https://img.shields.io/badge/-rishijoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rishijoshi/)](https://www.linkedin.com/in/rishi-joshi-924882200/)
 [![Instagram Badge](https://img.shields.io/badge/-wtfrishiiiii-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wtfrishiiiii/)](https://instagram.com/wtfrishiiiii)
 [![Gmail Badge](https://img.shields.io/badge/-rishijoshi.outlook@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishijoshi.outloook@gmail.com)](mailto:rishijoshi.outloook@gmail.com)
 
