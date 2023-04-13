@@ -24,6 +24,6 @@ Find out more about me & feel free to connect with me here:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tangorishi&show_icons=true&locale=en" alt="tangorishi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tangorishi&" alt="tangorishi" /></p>
+
 
 
