@@ -1,5 +1,5 @@
 <p align= "left"> <img src="https://media.tenor.com/7NYCdtHbaDUAAAAd/ryoshi-rockets-ryoshi-github-bruno-encanto.gif"  width="940" height="340"/> </p>
-Hi, I am Rishi! Great to see you here! 👋
+Hi, I am Rishi! Great to see you  👋
 
 I am Rishi Joshi, Currently I am learning HTML, Kotlin, Python and CSS. I am a Student and have been contributing to Open Source for quite a long time now . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
