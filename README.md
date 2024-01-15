@@ -3,7 +3,7 @@ Hi, I am Rishi! Great to see you here! 👋
 
 I am Rishi Joshi, Currently I am learning TypeScript, Kotlin, Flutter, Python, Dart. I am a Student and have been contributing to Open Source for quite a long time now . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
-Find out more about me & feel free to connect with me here
+Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rishijoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rishijoshi/)](https://www.linkedin.com/in/rishi-joshi-924882200/)
 [![Instagram Badge](https://img.shields.io/badge/-wtfrishiiiii-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wtfrishiiiii/)](https://instagram.com/wtfrishiiiii)
