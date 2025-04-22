@@ -59,7 +59,7 @@ Hi, I'm **Rishi Joshi**, familiar with **TypeScript**,  **JavaScript**,  **C**, 
 
 ### 📈 GitHub Activity
 
-[![Rishi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tangorishi&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tangorishi&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ⚡ GitHub Stats
 
