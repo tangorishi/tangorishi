@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rishi Joshi 👋</h1>
 
 <p align="center">
-  <b>Tech Enthusiast | Open Source Advocate | Full Stack Developer</b>  
+  <b>Tech Enthusiast | Chill Guy | Developer</b>  
 </p>
 
 ---
