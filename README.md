@@ -8,8 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Rishi Joshi**, familiar with **TypeScript**,  **JavaScript**,  **C**,  **C++**,  **React**,  **Next**,  **Tailwind**,  **Docker**,  **AWS**,  **Redhat**,  **
-Kafka**,  **Apache Spark** and **Python**. I’m a passionate student, active contributor to open source, and an advocate of building innovative & impactful tech. Whether it's building scalable full-stack apps or automating workflows, I'm always up for collaborating on exciting and disruptive ideas!
+Hi, I'm **Rishi Joshi**, familiar with **TypeScript**,  **JavaScript**,  **C**,  **C++**,  **React**,  **Next**,  **Tailwind**,  **Docker**,  **AWS**,  **Redhat**,  **Kafka**,  **Apache Spark** and **Python**. I’m a passionate student, active contributor to open source, and an advocate of building innovative & impactful tech. Whether it's building scalable full-stack apps or automating workflows, I'm always up for collaborating on exciting and disruptive ideas!
 
 ### 🚀 Connect With Me
 
